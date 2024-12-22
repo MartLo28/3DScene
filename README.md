@@ -3,45 +3,42 @@
 ## Project: Basic PC Setup in 3D Scene
 
 ### Overview
-This project shows a 3D scene of a basic PC setup. It includes a monitor, a speaker, a mouse, and a mouse pad. The goal was to learn how to create and display a 3D world. While it was a good experience, I probably will not use these skills in the future.
+This project showcases a 3D scene featuring a basic PC setup. The scene includes a monitor, a speaker, a mouse, and a mouse pad. The main goal of this project was to practice creating and displaying a 3D environment while learning the basics of computational graphics.
 
 ---
 
 ## Reflection
 
 ### How do I approach designing software?
-I start by figuring out what needs to be done and breaking it into small tasks. For this project, I thought about the objects I wanted to include and where to place them to look like a PC setup.
+When designing software, I start by breaking the project into smaller tasks. For this scene, I planned which objects to include and how they would be arranged. Then, I worked on building each piece step by step.
 
 ### What new design skills has your work on the project helped you to learn?
-I learned how to think about organizing objects and paying attention to small details in 3D. Even though I learned these skills, I do not think I will use them much in the future.
+This project helped me learn how to structure objects in a 3D space and focus on details like proportions and positioning. These skills were useful for this project, but I might not apply them much in future work.
 
 ### What design process did you follow for your project work?
-I started by deciding what objects to make and how they should look together. Then, I worked on each object one at a time and made changes along the way.
-
-### How could tactics from your design approach be used in future work?
-Breaking things into smaller steps and improving them as I go can help with other projects, even if they are not about 3D design.
+I followed a simple design process: planning the objects, creating each one individually, and testing how they fit together in the scene. This step-by-step approach kept the project organized and manageable.
 
 ---
 
 ### How do I approach developing programs?
-I usually start small and add more details over time. For this project, I created each object one by one and tested them before putting everything together.
+I approach development by starting small and building up gradually. For this project, I created one object at a time and tested it before combining it with the others.
 
 ### What new development strategies did you use while working on your 3D scene?
-I kept things simple at first, making sure each object worked well before adding more detail. This worked for the project, but I do not think I will use this process much in the future.
+I focused on keeping things simple at first and refining them later. Iteration played a key role in making the scene look balanced and realistic.
 
 ### How did iteration factor into your development?
-I changed the size and position of the objects, like the monitor and mouse, several times to make sure everything fit together nicely.
+I adjusted the size and position of the objects multiple times to ensure they looked good together. This trial-and-error approach helped me improve the final result.
 
 ### How has your approach to developing code changed while working on this project?
-I learned to work in a more organized way by testing each part before moving on. Even though I will not do more 3D projects, this is a good habit for other programming work.
+This project taught me the value of testing and refining each part before moving on. This is a practice I plan to use in future projects, even outside of 3D graphics.
 
 ---
 
 ### How can computer science help me in reaching my goals?
-Even though I do not plan to use 3D graphics, computer science helps me learn useful skills I can use in other areas, like IT and systems development.
+Computer science provides skills and tools that can be applied in many areas, even if not directly related to 3D graphics. It helps me develop problem-solving abilities and techniques that are useful for my career goals.
 
 ### How do computational graphics and visualizations give you new knowledge and skills that can be used in your education?
-This project taught me how to represent real objects in 3D. While I do not expect to use this skill much, it helped me practice problem-solving and creativity.
+This project gave me a better understanding of how to represent objects in a digital space. While I may not use 3D modeling often, it helped me practice creativity and problem-solving.
 
 ### How do computational graphics and visualizations give you new knowledge and skills that can be used in your career?
-I probably will not use these skills in my career since I do not plan to work in areas like game design or 3D modeling. But it was good to learn how these tools can be helpful for other people.
+Even though I do not plan to work with 3D graphics professionally, learning these skills gave me insight into how digital environments are built. This knowledge could be helpful for understanding related technologies in the future.
